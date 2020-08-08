@@ -2,7 +2,11 @@
   padding: 0;
   margin: 0;
 }
-#viewer {
-  width: 100vw;
-  height: 100vh;
+body {
+  /* background-color: #250762; */
+  background-color: #7805ca;
+}
+#canvases canvas {
+  margin: 20px auto;
+  display: block;
 }
